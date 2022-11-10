@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ambulance</folder>
+	<filename>th (3).jpg</filename>
+	<path>C:\Users\Varun\OneDrive\Desktop\ambulance\th (3).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>314</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ambulance</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>13</ymin>
+			<xmax>474</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>
